@@ -1,0 +1,1 @@
+# Human Activivty Recognition Project
